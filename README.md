@@ -192,7 +192,7 @@ PlayVerse is built by a collaborative team of computer science students passiona
 
 | Team Member | Role | GitHub |
 |---|---|---|
-| **Vaniza Batool** | Full Stack Developer && Software Engineer | [@github-username](https://github.com/vanizabatool-cs) |
+| **Vaniza Batool** | Full Stack Developer && Software Engineer | [@Vaniza-Batool](https://github.com/vanizabatool-cs) |
 | **Bilal Ali** |  Full Stack Developer | [@github-username](https://github.com/github-username) |
 | **Ishtiaque Ali** | Full-Stack Developer | [@IshtiaqueDev](https://github.com/IshtiaqueDev) |
 
